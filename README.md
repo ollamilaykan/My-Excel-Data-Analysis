@@ -3,7 +3,7 @@
 -This report examines a real life sales records of a supermarket for 3 month across 3 different branch using Microsoft Excel.
 ## Data Source
 The data used for this analysis was obtained from - <a href="https://kaggle.com/datasets/aungpyaeap/supermarket-sales?resource=download">KaggleDataset</a>
-You can read the full analysis report on - <a href="https://medium.com/@yussuf.olamilekan.u/aung-pyae-supermarket-analysis-from-jan-mar-2019-ab27a6eb2974">Medium</a>
+You can also read the full analysis report on - <a href="https://medium.com/@yussuf.olamilekan.u/aung-pyae-supermarket-analysis-from-jan-mar-2019-ab27a6eb2974">Medium</a>
 
 ## Questions answered with the analysis are:
 
