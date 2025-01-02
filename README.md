@@ -1,7 +1,8 @@
 ## My-Excel-Data-Analysis
 # Overview
 -This report examines a real life sales records of a supermarket for 3 month across 3 different branch using Microsoft Excel.
-# Data Source: The data used for this analysis was obtained from - <a href="https://kaggle.com/datasets/aungpyaeap/supermarket-sales?resource=download">KaggleDataset</a>
+# Data Source
+The data used for this analysis was obtained from - <a href="https://kaggle.com/datasets/aungpyaeap/supermarket-sales?resource=download">KaggleDataset</a>
 
 Questions answered with the analysis are:
 
