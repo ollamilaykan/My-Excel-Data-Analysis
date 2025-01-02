@@ -4,7 +4,7 @@
 # Data Source
 The data used for this analysis was obtained from - <a href="https://kaggle.com/datasets/aungpyaeap/supermarket-sales?resource=download">KaggleDataset</a>
 
-Questions answered with the analysis are:
+# Questions answered with the analysis are:
 
 Which of the product line has most sales?
 What is the percentage of male and female customers?
